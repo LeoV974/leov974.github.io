@@ -34,7 +34,13 @@ I like to draw in my free time too. Here are some rough sometimes half-finished 
 <div class="drawing-grid">
   <img src="/images/drawings/sketch1.jpg" alt="Drawing sketch">
   <img src="/images/drawings/sketch2.jpg" alt="Drawing sketch">
-  <img src="/images/drawings/figure-study.jpg" alt="Figure study">
+  <img src="/images/drawings/sketch3.jpg" alt="Drawing sketch">
+  <img src="/images/drawings/sketch4.jpg" alt="Drawing sketch">
+  <img src="/images/drawings/sketch5.jpg" alt="Drawing sketch">
+  <img src="/images/drawings/sketch6.jpg" alt="Drawing sketch">
+  <img src="/images/drawings/sketch7.jpg" alt="Drawing sketch">
+  <img src="/images/drawings/sketch8.jpg" alt="Drawing sketch">
+
 </div>
 
 
