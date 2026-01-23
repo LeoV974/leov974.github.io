@@ -32,9 +32,7 @@ Here are some old homework projects I enjoyed building.
 
 ## Drawing
 
-I like to draw in my free time — mostly sketches and studies.
-This has always been a parallel outlet to math for me: thinking visually,
-experimenting, and exploring form.
+I like to draw in my free time too. Here are some rough sometimes half-finished sketches I have done.
 
 <div class="drawing-grid">
   <img src="/images/drawings/sketch1.jpg" alt="Drawing sketch">
