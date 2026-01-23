@@ -27,9 +27,6 @@ Here are some old homework projects I enjoyed building.
   [Launch demo →](https://leov974.github.io/jellosimmy/)
 
 
-> These are preserved mostly for fun and nostalgia 🙂
-
-
 ## Drawing
 
 I like to draw in my free time too. Here are some rough sometimes half-finished sketches I have done.
@@ -40,3 +37,5 @@ I like to draw in my free time too. Here are some rough sometimes half-finished 
   <img src="/images/drawings/figure-study.jpg" alt="Figure study">
 </div>
 
+
+> Everything here is preserved mostly for fun and nostalgia 🙂
