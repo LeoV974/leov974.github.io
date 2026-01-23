@@ -6,6 +6,7 @@ permalink: /teaching/math-w54-summer-2024/
 venue: "UC Berkeley"
 date: 2024-06-20
 location: "Berkeley, CA"
+thumbnail: "/images/coolgif.gif"
 ---
 
 Hi, I’m Leo Villani. Here are the resources I use / mention in discussion section this summer!
