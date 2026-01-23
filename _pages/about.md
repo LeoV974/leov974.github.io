@@ -6,6 +6,7 @@ redirect_from:
   - /about.html
 ---
 
+![Image](/images/coolgif.gif){: .align-right}
 Hi, I’m **Leo (Le-yoh)**, a PhD student in **Statistics** at **Cornell University**.
 
 My interests sit at the intersection of **statistical theory**, **ML**, **representation learning**, and **graph theory** with a particular focus on uncertainty, structure, and generalization. I’m especially drawn to problems where theory and computation meaningfully interact.
