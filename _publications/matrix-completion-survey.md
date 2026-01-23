@@ -1,5 +1,5 @@
 ---
-title: "Matrix Completion: Theory, Algorithms, and Empirical Evaluation"
+title: "Matrix Completion Survey: Theory, Algorithms, and Empirical Evaluation"
 collection: publications
 category: surveys
 permalink: /publication/matrix-completion-survey
