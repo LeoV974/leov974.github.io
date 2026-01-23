@@ -9,7 +9,7 @@ location: "Berkeley, CA"
 ---
 
 Hi, I’m Leo Villani. Here are the resources I use / mention in discussion section this spring!  
-(I also taught this course in Fall 2023 — see: [Fall 2023 page](/teaching/math-1b-fall-2023/).)
+(I also taught this course in Fall 2023 see below).
 
 ## Logistics
 
