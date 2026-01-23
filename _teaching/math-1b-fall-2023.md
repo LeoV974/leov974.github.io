@@ -3,12 +3,12 @@ title: "Math 1B"
 collection: teaching
 type: "Math 1B"
 permalink: /teaching/math-1b-fall-2023/
-venue: "UC Berkeley, Math"
+venue: "UC Berkeley"
 date: 2023-08-23
 location: "Berkeley, CA"
 ---
 
-Hi — I’m Leo Villani. Here are the resources I use / mention in discussion section this semester.
+Hi, I’m Leo Villani. Here are the resources I use / mention in discussion section this semester. :D
 
 ## Logistics
 
@@ -20,7 +20,7 @@ Hi — I’m Leo Villani. Here are the resources I use / mention in discussion s
 - **Final Exam:** 12/11, 11:30 AM–2:30 PM (location TBA)
 
 **Links:**  
-- [Email](mailto:leov974@berkeley.edu)  
+- [Email](mailto:lv259@cornell.edu)  
 - [Course Details](https://math.berkeley.edu/courses/fall-2023-math-1b-001-lec)  
 - [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSf2cbObsy0u2P0Ki4fbUklFuWpZZDIx26N-6fKveuLXlbIQwg/viewform?usp=pp_url)
 
