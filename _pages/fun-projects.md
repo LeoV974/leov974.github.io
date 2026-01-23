@@ -20,4 +20,11 @@ Here are some old homework projects I enjoyed building.
 - **HW4**  
   [View project →](/files/hw-projects/hw4.html)
 
+  ## Final Project
+
+- **3D Jello Simulator**  
+  Interactive mass–spring simulation with real-time rendering.  
+  [Launch demo →](https://leov974.github.io/jellosimmy/)
+
+
 > These are preserved mostly for fun and nostalgia 🙂
