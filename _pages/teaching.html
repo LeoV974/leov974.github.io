@@ -8,13 +8,5 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
-  <div class="teaching-card">
-    {% if post.thumbnail %}
-      <a href="{{ post.url | relative_url }}" class="teaching-thumb-link">
-        <img class="teaching-thumb" src="{{ post.thumbnail | relative_url }}" alt="{{ post.title }}">
-      </a>
-    {% endif %}
-
-    {% include archive-single.html %}
-  </div>
+  {% include archive-single.html %}
 {% endfor %}
