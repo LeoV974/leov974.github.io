@@ -1,5 +1,5 @@
 ---
-title: "Math 1B (Fall 2023)"
+title: "Math 1B"
 collection: teaching
 type: "Math 1B"
 permalink: /teaching/math-1b-fall-2023/
@@ -7,8 +7,6 @@ venue: "UC Berkeley, Math"
 date: 2023-08-23
 location: "Berkeley, CA"
 ---
-
-# Math 1B Fall 2023
 
 Hi — I’m Leo Villani. Here are the resources I use / mention in discussion section this semester.
 
@@ -215,3 +213,132 @@ Hi — I’m Leo Villani. Here are the resources I use / mention in discussion s
 ---
 
 <!-- Continue Weeks 9–14 similarly -->
+
+## Week 9: 10/16 – 10/20
+
+### Worksheets
+- [Worksheet 22](https://drive.google.com/file/d/1joGGpApoGQ5DZspY1Von6o28NkRGmkGu/view?usp=sharing)  
+- [Worksheet 22 Sols](https://drive.google.com/file/d/1x4RL-N471GSvlsghIrIHXmO0lL5eXNFy/view?usp=sharing)  
+- [Worksheet 23](https://drive.google.com/file/d/10wdGX-Jo60YsQMDGgsKo-o8xr9TdDnw3/view?usp=sharing)  
+- [Worksheet 23 Sols](https://drive.google.com/file/d/17GtnNxBob6PcORJNkuTPMRz2vkDsjjsz/view?usp=sharing)  
+- [Worksheet 24](https://drive.google.com/file/d/1fWTVR4XifnJu4ZOAZN_p2nzBZu9bS97m/view?usp=sharing)  
+- [Worksheet 24 Sols](https://drive.google.com/file/d/1Kwu1rnSxCt9-n1rcbhulD6P_VPFeFcVy/view?usp=sharing)
+
+### Readings this week
+- **Oct 16:** Remainder estimate; important Taylor series examples  
+- **Oct 18:** Approximation by Taylor polynomials. Textbook: 11.11  
+- **Oct 20:** Newton’s binomial series; multiplying/dividing series; series limits. Textbook: 9.1  
+
+### Assignments
+- **WebWork HW 9:** Due Mon Oct 23 @ 11:59 PM
+
+---
+
+## Week 10: 10/23 – 10/27
+
+### Worksheets
+- [Worksheet 25](https://drive.google.com/file/d/1UIjs2XS7FVOh4ZX-UxJE-5S5qKaiJ1Ig/view?usp=sharing)  
+- [Worksheet 25 Sols](https://drive.google.com/file/d/19ehDSHtk6dnnni_8cfc-ylNzGx0NPuOT/view?usp=sharing)  
+- [Worksheet 26](https://drive.google.com/file/d/1n4uAV_IlKATWE3qaxnSu7V7eYHaghymn/view?usp=sharing)  
+- [Worksheet 26 Sols](https://drive.google.com/file/d/1rO_VUjrscYY2_bIxWF2W3__-ygfylD4Z/view?usp=sharing)
+
+### Readings this week
+- **Oct 23:** Differential equations; mathematical models. Textbook: 9.1  
+- **Oct 25:** Euler’s method. Textbook: 9.2  
+- **Oct 27:** **Midterm 2**
+
+### Assignments
+- **WebWork HW 10:** Due Mon Oct 30 @ 11:59 PM
+
+---
+
+## Week 11: 10/30 – 11/03
+
+### Worksheets
+- [Worksheet 27](https://drive.google.com/file/d/1tTEoVIhxDDK06vcPs12Dq4wIbTIZGGU0/view?usp=sharing)  
+- [Worksheet 27 Sols](https://drive.google.com/file/d/1Z_naHFIV_q7mlGkLbjM4ifj9i89hao6O/view?usp=sharing)  
+- [Worksheet 28](https://drive.google.com/file/d/1rf-b1wOnhuC5eVmGfZxkeY3jdM3-wBcc/view?usp=sharing)  
+- [Worksheet 28 Sols](https://drive.google.com/file/d/1X7N8T1dS5ruAu3bWrlxE2oyjdqv1xQ9e/view?usp=sharing)  
+- [Worksheet 29](https://drive.google.com/file/d/14dzPKeBGNJzaSC8HGnFO_hY8AS6We0gy/view?usp=sharing)  
+- [Worksheet 29 Sols](https://drive.google.com/file/d/1-bD8Hpsyi2FkaT1hODd9Dhb2CXNR7C6a/view?usp=sharing)
+
+### Readings this week
+- **Oct 30:** Separable D.E.’s; applications. Textbook: 9.3–9.4  
+- **Nov 1:** Linear D.E.’s. Textbook: 9.4–9.5  
+- **Nov 3:** Further applications and examples  
+
+### Assignments
+- **WebWork HW 11:** Due Mon Nov 6 @ 11:59 PM
+
+---
+
+## Week 12: 11/06 – 11/10
+
+### Worksheets
+- [Worksheet 30](https://drive.google.com/file/d/1RxslsA09PSzTppJa2k1vJ25JQ-xBmqnO/view?usp=sharing)  
+- [Worksheet 30 Sols](https://drive.google.com/file/d/15BqCqNx0XTaEtKK8xuis2ksZdBZIOEdv/view?usp=sharing)  
+- [Worksheet 31](https://drive.google.com/file/d/1GWPpCHU2aNw5FyXBYC0xeGMK_Mmd06Ph/view?usp=sharing)  
+- [Worksheet 31 Sols](https://drive.google.com/file/d/128m7cNwUxdMLUR8kvw4qo4lSgQAzSKme/view?usp=sharing)
+
+### Readings this week
+- **Nov 6:** Systems of D.E.’s; Lotka–Volterra. Textbook: 9.6  
+- **Nov 8:** Second-order linear equations. Textbook: 17.1  
+- **Nov 10:** Veterans Day — **No class**
+
+### Assignments
+- **WebWork HW 12:** Due Mon Nov 13 @ 11:59 PM
+
+---
+
+## Week 13: 11/13 – 11/17
+
+### Worksheets
+- [Worksheet 32](https://drive.google.com/file/d/1zpgRjNOuzOm5Tw9wlr9rNEqkk_D62FIa/view?usp=sharing)  
+- [Worksheet 32 Sols](https://drive.google.com/file/d/15dV_kTERodjl45mxOE3Ps92szKze1suS/view?usp=sharing)  
+- [Worksheet 33](https://drive.google.com/file/d/1JZCOoJAUEboOLo1IQeuV8BEVi5qHf__6/view?usp=sharing)  
+- [Worksheet 33 Sols](https://drive.google.com/file/d/1B76nCfNfFrJYNwSzJpUV0ut60Ed2wIbz/view?usp=sharing)  
+- [Worksheet 34](https://drive.google.com/file/d/1EXfhcHzhRmH8ZNa1-uig2GRhjrJ_rMj6/view?usp=sharing)  
+- [Worksheet 34 Sols](https://drive.google.com/file/d/1KH-d0OQemjhoZeXJszCPzLiOkyDTabhe/view?usp=sharing)
+
+### Readings this week
+- **Nov 13:** Complex roots; boundary value problems; non-homogeneous equations  
+- **Nov 15:** Method of undetermined coefficients. Textbook: 17.2  
+- **Nov 17:** Variation of parameters  
+
+### Assignments
+- **WebWork HW 13:** Due Mon Nov 20 @ 11:59 PM
+
+---
+
+## Week 14: 11/20 – 11/24
+
+### Worksheets
+- [Worksheet 35](https://drive.google.com/file/d/1KhbeIpac0jEnZfE_Nd6SQIH8V7Jnh5Gh/view?usp=sharing)  
+- [Worksheet 35 Sols](https://drive.google.com/file/d/1VTB3HdSe2A2tfN_JeHM87g0AIRf8dhQj/view?usp=sharing)
+
+### Readings this week
+- **Nov 20:** Oscillating motion and damping. Textbook: 17.3  
+- **Nov 22:** Break — No section  
+- **Nov 24:** Break — No section  
+
+### Assignments
+- **WebWork HW 14:** Due Mon Nov 27 @ 11:59 PM
+
+---
+
+## Week 15: 11/27 – 12/01
+
+### Worksheets
+- [Worksheet 36](https://drive.google.com/file/d/1MoDLjdRYaTPMU6xH-gF01HA9pH9PjKX_/view?usp=sharing)  
+- [Worksheet 36 Sols](https://drive.google.com/file/d/1NZ3l3wQ6rhBWcBK2_0mjbdenId0Z11w_/view?usp=sharing)  
+- [Worksheet 37](https://drive.google.com/file/d/1pL-T1DVpSro6xaYrPc-Ip55OdosZV6Al/view?usp=sharing)  
+- [Worksheet 37 Sols](https://drive.google.com/file/d/14ycAV4HE9gGvCqPCXBl4ALoSlD0-KYPF/view?usp=sharing)
+
+### Readings this week
+- **Nov 27:** Series solutions of differential equations. Textbook: 17.4  
+- **Nov 29:** Series solutions continued  
+- **Dec 1:** **Midterm 3**
+
+### Assignments
+- **WebWork HW 15:** Due Sun Dec 3 @ 11:59 PM
+
