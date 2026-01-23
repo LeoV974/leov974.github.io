@@ -32,16 +32,11 @@ Here are some old homework projects I enjoyed building.
 I like to draw in my free time too. Here are some rough sometimes half-finished sketches I have done.
 
 <div class="drawing-grid">
-  <img src="/images/drawings/sketch1.jpg" alt="Drawing sketch">
-  <img src="/images/drawings/sketch2.jpg" alt="Drawing sketch">
-  <img src="/images/drawings/sketch3.jpg" alt="Drawing sketch">
-  <img src="/images/drawings/sketch4.jpg" alt="Drawing sketch">
-  <img src="/images/drawings/sketch5.jpg" alt="Drawing sketch">
-  <img src="/images/drawings/sketch6.jpg" alt="Drawing sketch">
-  <img src="/images/drawings/sketch7.jpg" alt="Drawing sketch">
-  <img src="/images/drawings/sketch8.jpg" alt="Drawing sketch">
-
+  <img src="{{ '/images/drawings/sketch_1.jpg' | relative_url }}" alt="Sketch 1">
+  <img src="{{ '/images/drawings/sketch_2.jpg' | relative_url }}" alt="Sketch 2">
+  <img src="{{ '/images/drawings/sketch_3.jpg' | relative_url }}" alt="Sketch 3">
 </div>
+
 
 
 > Everything here is preserved mostly for fun and nostalgia 🙂
