@@ -43,7 +43,8 @@ I like to draw in my free time too. Here are some rough sometimes half-finished 
   <img src="{{ '/images/drawings/sketch_4.jpg' | relative_url }}" alt="Sketch 8">
 </div>
 
-
+## Generalized PAPER model:
+[View project →](/files/pa.html)
 
 
 > Everything here is preserved mostly for fun and nostalgia 🙂
