@@ -15,6 +15,8 @@ Previously, I studied **Applied Mathematics** and **Computer Science** at **UC B
 
 This site is a record of my work, including teaching materials, research projects, and occasionally creative explorations.
 
+In my spare time, I enjoy playing soccer, climbing, and going for walks outdoors.
+
 If you’re a student looking for course resources, check out the **Teaching** section.  
 If you’re a researcher, collaborator, and you believe your research interests align with mine, or just curious, feel free to reach out.
 

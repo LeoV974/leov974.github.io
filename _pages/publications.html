@@ -5,32 +5,34 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h2>Random graphs</h2>
+<ul>
+  <li>
+    <strong>Localization in Random Geometric Graphs from Sparse Anchors</strong><br>
+    Leo Villani, Y. Wu, and D. Yang. <em>Work in progress.</em>
+  </li>
+  <li>
+    <strong>Recovery and Isolation in Planted Hypergraph Matchings</strong><br>
+    Leo Villani and D. Yang. <em>Work in progress.</em>
+  </li>
+</ul>
 
-{% include base_path %}
+<h2>Causal inference</h2>
+<ul>
+  <li>
+    <strong>Confidence Sets for Causal Orderings with Interventional Data</strong><br>
+    F. Fiocchi, Leo Villani, and Y. S. Wang. <em>Work in progress.</em>
+  </li>
+</ul>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+<h2>Miscellanea</h2>
+<ul>
+  <li>
+    <strong>Installing and Obstructing Heuristics: Learning Dynamics in Nim</strong><br>
+    Leo Villani, S. Daniels, I. Yu, and A. Sahai. <em>Accepted, ICML 2026 CompLearn Workshop.</em>
+  </li>
+  <li>
+    <strong>The Geometry of Creativity: Semantic Null-Space Sampling for Generative Models</strong><br>
+    Leo Villani, P. Radchenko, B. Rava, and D. Yang. <em>Under review, AISTATS 2026.</em>
+  </li>
+</ul>
